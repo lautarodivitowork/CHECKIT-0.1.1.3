@@ -1,0 +1,30 @@
+TAREAS — V3 LISTA PARA GITHUB
+
+PARA ACTUALIZAR TU REPOSITORIO ACTUAL:
+1. Antes de actualizar, abrí la app y exportá una copia JSON desde el botón de datos.
+2. Descomprimí este ZIP en tu computadora.
+3. Entrá a tu repositorio de GitHub y elegí Add file > Upload files.
+4. Subí TODOS los archivos de esta carpeta A LA RAÍZ del repositorio.
+   Aceptá la sustitución de los archivos anteriores y pulsá Commit changes.
+5. Abrí la misma URL de GitHub Pages. No hace falta configurar Pages otra vez.
+   Si el iPhone muestra una versión vieja, abrí la URL con conexión y reiniciá la app.
+
+SI ES UN REPOSITORIO NUEVO:
+1. Entrá en https://github.com/new, creá un repositorio público.
+2. Subí todos los archivos descomprimidos (index.html en la raíz) y confirmá.
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Abrí https://TU_USUARIO.github.io/NOMBRE_DEL_REPOSITORIO/
+5. En Safari del iPhone: Compartir > Añadir a pantalla de inicio.
+
+NOVEDADES V3:
+- Nuevo calendario mensual junto al botón de orden.
+- Categorías vacías: aparece únicamente el +, sin el icono gris inicial.
+- Menú compacto de categoría por pulsación prolongada: Editar / Eliminar.
+- Al abrir el menú de tarea, la tarea elegida queda nítida y destacada;
+  el resto de la pantalla se atenúa y desenfoca.
+- Eliminado todo el arrastre manual de tareas: no se pueden desplazar por accidente.
+  Ordenar únicamente desde el botón superior (antiguas, recientes, categorías).
+- Los datos históricos se mantienen; el formato de almacenamiento es compatible.
+
+No necesitás instalar programas, ejecutar comandos ni compilar.
+GitHub exige activar Pages una vez por repositorio nuevo.
